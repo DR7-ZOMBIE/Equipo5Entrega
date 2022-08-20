@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+
+
+.organizarFooter{
+    background-color: #3C2313 ;
+}
+
+.derechosAutor{
+    text-align: center;
+    background-color: orange;
+    color: white;
+    font-family: 'Acme', sans-serif;
+}
+
+.quitarEstilo{
+    list-style-type: none;
+}
+
+.divHeader{
+    background-color: #F0A83E;
+}
+
+*{
+    font-family:'Acme', sans-serif;
+    color: black;
+}
+
+h2{
+    color: blue;
+}
+
+.divBanner{
+background-image: url("../img/bowl-and-pet-daities-on-green-background\ 1.png");
+background-size: contain;
+height: 400px;
+background-repeat: no-repeat;
+text-align: center;
+}
+
+.divCabeza{
+    background-color: black;
+}
+
+.gColor{
+    color: white ;
+}
